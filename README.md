@@ -2,7 +2,7 @@
 
 This project was made mainly for personal usage to download songs from Youtube because all the web downloaders were filled with ads and need premium subscription for high quality. I later made removed the regex restrictions that made it a Youtube only downloader, not it downloads any media that yt-dlp supports, better command-line process, and published to Github to help anyone who needs an open-source media downloader. Feel free to use this program and modify as you wish.
 
-# Media Downloader
+# MediaDown
 
 A small, homemade video/audio downloader. It's a friendly wrapper around
 [`yt-dlp`](https://github.com/yt-dlp/yt-dlp), so it can grab video (MP4) or
