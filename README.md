@@ -61,10 +61,6 @@ python MediaDown.py --mp3 <link>   # download as audio
 Only one of `--mp4` / `--mp3` is needed per run. Files are saved to the
 directory you run the command from, named after the video's title.
 
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
-
 ## Notes
 
 - If you hit an error on a specific site (e.g. TikTok returning an
@@ -75,3 +71,7 @@ MIT — see [LICENSE](LICENSE) for details.
   ```
 - Downloads always skip playlists (`noplaylist`) and only grab the single
   video/audio at the given link.
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
